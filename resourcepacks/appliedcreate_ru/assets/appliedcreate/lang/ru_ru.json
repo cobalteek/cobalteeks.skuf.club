@@ -1,0 +1,103 @@
+{
+  "block.appliedcreate.andesite_pattern_provider": "Андезитовый шаблонный поставщик",
+  "block.appliedcreate.brass_pattern_provider": "Латунный шаблонный поставщик",
+  "item.appliedcreate.brass_pattern_provider_upgrade": "Улучшение латунного шаблонного поставщика",
+  "item.appliedcreate.andesite_pattern_provider_part": "Андезитовый шаблонный поставщик",
+  "item.appliedcreate.brass_pattern_provider_part": "Латунный шаблонный поставщик",
+  "itemGroup.appliedcreate": "Applied Create",
+
+  "gui.appliedcreate.patterns": "Шаблоны",
+  "gui.appliedcreate.AndesitePatternProvider": "Андезитовый шаблонный поставщик",
+  "gui.appliedcreate.BrassPatternProvider": "Латунный шаблонный поставщик",
+
+  "key_type.appliedcreate.stress": "Нагрузка",
+  "key.appliedcreate.stress": "Нагрузка",
+
+  "item.appliedcreate.stress_storage_cell_1k": "Ячейка хранения нагрузки 1К",
+  "item.appliedcreate.stress_storage_cell_4k": "Ячейка хранения нагрузки 4К",
+  "item.appliedcreate.stress_storage_cell_16k": "Ячейка хранения нагрузки 16К",
+  "item.appliedcreate.stress_storage_cell_64k": "Ячейка хранения нагрузки 64К",
+  "item.appliedcreate.stress_storage_cell_256k": "Ячейка хранения нагрузки 256К",
+  "item.appliedcreate.stress_storage_cell_1m": "Ячейка хранения нагрузки 1М",
+  "item.appliedcreate.stress_storage_cell_4m": "Ячейка хранения нагрузки 4М",
+  "item.appliedcreate.stress_storage_cell_16m": "Ячейка хранения нагрузки 16М",
+  "item.appliedcreate.stress_storage_cell_64m": "Ячейка хранения нагрузки 64М",
+  "item.appliedcreate.stress_storage_cell_256m": "Ячейка хранения нагрузки 256М",
+
+  "item.appliedcreate.stress_p2p_tunnel": "P2P-туннель нагрузки",
+  "block.appliedcreate.me_blueprint_cannon": "ME-пушка чертежей",
+
+  "gui.appliedcreate.slot.upgrades": "Карты улучшения",
+
+  "item.appliedcreate.stress_circuit_board": "Андезитовая плата нагрузки",
+  "item.appliedcreate.advanced_stress_circuit_board": "Латунная плата нагрузки",
+  "item.appliedcreate.stress_processor": "Андезитовый процессор нагрузки",
+  "item.appliedcreate.advanced_stress_processor": "Латунный процессор нагрузки",
+
+  "item.appliedcreate.stress_storage_component_1k": "Компонент хранения нагрузки 1К",
+  "item.appliedcreate.stress_storage_component_4k": "Компонент хранения нагрузки 4К",
+  "item.appliedcreate.stress_storage_component_16k": "Компонент хранения нагрузки 16К",
+  "item.appliedcreate.stress_storage_component_64k": "Компонент хранения нагрузки 64К",
+  "item.appliedcreate.stress_storage_component_256k": "Компонент хранения нагрузки 256К",
+  "item.appliedcreate.stress_storage_component_1m": "Компонент хранения нагрузки 1М",
+  "item.appliedcreate.stress_storage_component_4m": "Компонент хранения нагрузки 4М",
+  "item.appliedcreate.stress_storage_component_16m": "Компонент хранения нагрузки 16М",
+  "item.appliedcreate.stress_storage_component_64m": "Компонент хранения нагрузки 64М",
+  "item.appliedcreate.stress_storage_component_256m": "Компонент хранения нагрузки 256М",
+
+  "item.appliedcreate.andesite_stress_cell_housing": "Андезитовый корпус ячейки нагрузки",
+  "item.appliedcreate.brass_stress_cell_housing": "Латунный корпус ячейки нагрузки",
+
+  "block.appliedcreate.kinetic_energy_acceptor": "Приёмник кинетической энергии",
+  "block.appliedcreate.me_gearbox": "ME-редуктор",
+
+  "appliedcreate.me_gearbox.title": "ME-редуктор",
+  "appliedcreate.me_gearbox.mode": "Режим: ",
+  "appliedcreate.me_gearbox.mode.export": "Экспорт (ME → кинетика)",
+  "appliedcreate.me_gearbox.mode.import": "Импорт (кинетика → ME)",
+  "appliedcreate.me_gearbox.transfer": "Передача: ",
+  "appliedcreate.me_gearbox.transfer.unit": " SU/т",
+
+  "appliedcreate.kinetic_energy_acceptor.multiplier": "Множитель нагрузки",
+
+  "block.appliedcreate.whichball_skin_doll": "Кукла Whichball",
+
+  "gui.appliedcreate.me_blueprint_cannon.viewMaterials": "Показать материалы",
+  "gui.appliedcreate.me_blueprint_cannon.materials": "Список материалов",
+  "gui.appliedcreate.me_blueprint_cannon.noMaterials": "Материалы не требуются",
+
+  "block.appliedcreate.spatial_assembler": "Пространственный сборщик",
+  "gui.appliedcreate.spatial_assembler.input": "Вход",
+  "gui.appliedcreate.spatial_assembler.output": "Выход",
+  "gui.appliedcreate.spatial_assembler.status.idle": "Ожидание",
+  "gui.appliedcreate.spatial_assembler.status.noCell": "Нет ячейки",
+  "gui.appliedcreate.spatial_assembler.status.outputFull": "Выход заполнен",
+  "gui.appliedcreate.spatial_assembler.status.noGrid": "Нет подключения к сети",
+  "gui.appliedcreate.spatial_assembler.status.noGlue": "Нет связанной области",
+  "gui.appliedcreate.spatial_assembler.status.tooLarge": "Слишком большая область",
+  "gui.appliedcreate.spatial_assembler.status.noPower": "Недостаточно энергии",
+  "gui.appliedcreate.spatial_assembler.status.transitionDone": "Готово",
+  "gui.appliedcreate.spatial_assembler.status.transitionFailed": "Ошибка",
+
+  "config.jade.plugin_appliedcreate.grid_node_state": "Состояние узла",
+  "config.jade.plugin_appliedcreate.power_storage": "Хранилище энергии",
+  "config.jade.plugin_appliedcreate.andesite_pp_grid_node": "Узел (андезитовый поставщик)",
+  "config.jade.plugin_appliedcreate.brass_pp_grid_node": "Узел (латунный поставщик)",
+  "config.jade.plugin_appliedcreate.andesite_pp_power_storage": "Энергия (андезитовый поставщик)",
+  "config.jade.plugin_appliedcreate.brass_pp_power_storage": "Энергия (латунный поставщик)",
+  "config.jade.plugin_appliedcreate.kea_grid_node": "Узел (приёмник энергии)",
+  "config.jade.plugin_appliedcreate.me_gearbox_grid_node": "Узел (ME-редуктор)",
+
+  "item.appliedcreate.creative_stress_cell": "Креативная ячейка нагрузки",
+  "item.appliedcreate.creative_stress_cell.tooltip": "Бесконечное хранение нагрузки",
+
+  "gui.appliedcreate.MEGearbox": "ME-редуктор",
+  "gui.appliedcreate.MEGearbox.mode.export": "Режим: экспорт (ME → кинетика)",
+  "gui.appliedcreate.MEGearbox.mode.import": "Режим: импорт (кинетика → ME)",
+  "gui.appliedcreate.MEGearbox.speed.label": "Скорость:",
+  "gui.appliedcreate.MEGearbox.stress.label": "Множитель нагрузки:",
+  "gui.appliedcreate.MEGearbox.actual_speed": "Скорость: %s об/мин",
+  "gui.appliedcreate.MEGearbox.actual_stress": "Нагрузка: %s SU",
+  "gui.appliedcreate.MEGearbox.speed": "Скорость: %s об/мин",
+  "gui.appliedcreate.MEGearbox.stress": "Нагрузка: %s SU"
+}

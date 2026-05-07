@@ -1,0 +1,18 @@
+# Игнорируем всё по умолчанию
+*
+
+# Но не игнорируем сами папки (и их содержимое)
+!mods/
+!resourcepacks/
+!schematics/
+!shaderpacks/
+
+# Не игнорируем сам .gitignore
+!.gitignore
+
+
+# Разрешаем все файлы внутри mods, resourcepacks, schematics, shaderpacks
+!mods/**/*
+!resourcepacks/**/*
+!schematics/**/*
+!shaderpacks/**/*
